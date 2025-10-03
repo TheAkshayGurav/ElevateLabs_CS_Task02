@@ -11,6 +11,7 @@ Identify phishing characteristics in a suspicious email by analyzing headers, se
 - Saved phishing email (`sample_phishing.eml`)
 - Online Email Header Analyzer (e.g., MXToolbox, Google Header Analyzer)
 - Text editor (to open raw email file)
+- VirusTotal for safe attachment/URL checks
 
 ---
 
